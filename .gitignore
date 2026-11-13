@@ -1,0 +1,19 @@
+
+# Compiled C++ executable files
+*.exe
+*.out
+*.o
+*.obj
+
+# Temporary files
+*.tmp
+tempCodeRunnerFile.cpp
+
+# Debug files
+*.pdb
+*.ilk
+
+# VS Code workspace settings
+.vscode/
+# Personal study notes
+striver-sheet_note.pdf
